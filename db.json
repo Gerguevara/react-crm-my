@@ -1,0 +1,84 @@
+{
+  "clientes": [
+    {
+      "nombre": " 2313123TEST2 OLIS2223",
+      "empresa": "Empresa 3",
+      "telefono": "3213123",
+      "email": "dsadasda@dasd.com",
+      "notas": "dsadasdasdasdsdadsa dasdasd23 32323",
+      "id": 3
+    },
+    {
+      "nombre": "test ACTUALIZADO",
+      "empresa": "Empresa 4",
+      "telefono": "79899626",
+      "email": "deby.guardado@gmail.com",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "HOLAAAA",
+      "empresa": "Empresa 5",
+      "telefono": "79899626",
+      "email": "deby.guardado@gmail.com",
+      "notas": "dsadada",
+      "id": 6
+    },
+    {
+      "nombre": "adsdasd",
+      "empresa": "dasdasd",
+      "telefono": "79831231",
+      "email": "saddasy.guardado@gmail.com",
+      "notas": "sdasdasd",
+      "id": 7
+    },
+    {
+      "nombre": "Nelson Guevara",
+      "empresa": "XXXX",
+      "telefono": "78061228",
+      "email": "gerardoguevara64@gmail.com",
+      "notas": "None",
+      "id": 8
+    },
+    {
+      "nombre": "Nelson Guevara",
+      "empresa": "XXXX",
+      "telefono": "78061228",
+      "email": "gerardoguevara64@gmail.com",
+      "notas": "None",
+      "id": 9
+    },
+    {
+      "nombre": "Nelson Guevara",
+      "empresa": "XXXX",
+      "telefono": "78061228",
+      "email": "gerardoguevara64@gmail.com",
+      "notas": "sadasda",
+      "id": 10
+    },
+    {
+      "nombre": " 2313123TEST2 OLIS",
+      "empresa": "Empresa 3",
+      "telefono": "3213123",
+      "email": "dsadasda@d5asd.com",
+      "notas": "dsadasdasdasdsdadsa dasdasd23 32323",
+      "id": 11
+    },
+    {
+      "nombre": " 2313123TEST2 OLIS",
+      "empresa": "Empresa 3",
+      "telefono": "321312344",
+      "email": "dsadasda@dasd.com",
+      "notas": "dsadasdasdasdsdadsa dasdasd23 32323",
+      "id": 12
+    },
+    {
+      "nombre": "test ACTUALIZADO 2",
+      "empresa": "sad",
+      "telefono": "2123123232",
+      "email": "gerardoguevara64@gmail.com",
+      "notas": "",
+      "id": 13
+    }
+  ]
+}
