@@ -160,15 +160,16 @@ const Formulario = ({ cliente, cargando }) => {
   );
 };
 
-// No es necesario en este caso pero se pueden manejar porps por defecto para que
-// no sea obligatorio pasarlos 
-
 
 //  enableReinitialize={true} es un prop de formitQue vuelve a ejecutar 
 // la detaccion de cambios  en este caso no se uso pero puede ser util
 
+// No es necesario en este caso pero se pueden manejar porps por defecto para que
+// no sea obligatorio pasarlos 
+
 Formulario.defaultPops =  {
-  cliente: {}
+  cliente: {},
+  cargando: false
 }
 
 export default Formulario;
